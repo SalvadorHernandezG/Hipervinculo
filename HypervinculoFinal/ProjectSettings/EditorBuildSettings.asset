@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UI.unity
+    guid: 16e657c6da0e6a84aa578276d1748da0
+  - enabled: 1
+    path: Assets/Scenes/CastilloReino.unity
+    guid: 8c4e8133506316c4faf7be84d594a37c
+  - enabled: 1
+    path: Assets/Scenes/Templo.unity
+    guid: 8b8219583f4dd1b4caca75b8ccc5e14f
+  m_configObjects: {}
